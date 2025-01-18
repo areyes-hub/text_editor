@@ -21,5 +21,5 @@ key. This may not work properly in every system. If you're able to find any othe
 bugs feel free to contact me.
 
 # Author
-[Angel Reyes](angel.reyes.segarra@gmail.com)
-[Github](https://github.com/areyes-hub/holbertonschool-simple_shell)
+* [Angel Reyes](angel.reyes.segarra@gmail.com)
+* [Github](https://github.com/areyes-hub/text_editor)
